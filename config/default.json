@@ -1,10 +1,10 @@
 {
   "discord": {
-    "ClientID": "443074120758853643",
-    "APIKey": null
+    "ClientID": "740095127124574308",
+    "APIKey": "mfa.d91S37Z0Oz4viTqjBIvP9NVLH5sGKGTaIhlL1LzJ0C9KzcrNWwQuiwrZ45NEj_671bySsLa_MWvqKB9PFJU0"
   },
   "soundcloud": {
-    "ClientID": "{insert soundcloud client_id}"
+    "ClientID": "c7qRtooYX5D1QXCM7DmD1J4E7v5YcxpR"
   },
-  "uploadArtwork": false
+  "uploadArtwork": true
 }
